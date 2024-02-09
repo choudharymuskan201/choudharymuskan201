@@ -1,0 +1,61 @@
+.instagram {
+  position: absolute;
+  left: 500px;
+}
+#login {
+  position: absolute;
+  left: 1300px;
+  position: absolute;
+  top: 20px;
+  border-radius: 6px;
+  background-color: darkcyan;
+}
+#sign {
+  position: absolute;
+  left: 1400px;
+  position: absolute;
+  top: 20px;
+  border-radius: 6px;
+  background-color: darkcyan;
+}
+.hr {
+  position: absolute;
+  top: 50px;
+  color: aqua;
+  width: 1690px;
+}
+.whatsapp {
+  position: absolute;
+  top: 100px;
+  position: absolute;
+  left: 400px;
+}
+.whatsapp1 {
+  position: absolute;
+  top: 100px;
+  position: absolute;
+  left: 700px;
+}
+.follow{position: absolute;
+    top: 100px;
+    position: absolute;
+    left: 800px;
+  }
+  .message{position: absolute;
+    top: 100px;
+    position: absolute;
+    left: 900px;
+  }
+  .posts{position: absolute;
+    top: 150px;
+    position: absolute;
+    left: 700px;
+  }
+  .follower{position: absolute;
+    top: 150px;
+    position: absolute;
+    left: 800px;}
+    .following{position: absolute;
+        top: 150px;
+        position: absolute;
+        left: 950px;}
